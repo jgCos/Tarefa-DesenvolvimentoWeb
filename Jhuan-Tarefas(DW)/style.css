@@ -1,0 +1,28 @@
+.tarefa{
+    position: fixed;
+    margin-left: 25%;
+    margin-top: 90px;
+    font-size: 40px;
+}
+
+.text_tarefa{
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+
+.custom_checkbox01:checked
+{accent-color: yellow;}
+
+.custom_checkbox02:checked
+{accent-color: blue;}
+
+.custom_checkbox03:checked
+{accent-color: green;}
+
+
+
+
+
+
+
